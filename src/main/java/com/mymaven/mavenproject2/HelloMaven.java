@@ -9,5 +9,7 @@ public class HelloMaven {
         {
             System.out.println(i);
         }
+         System.out.println("Maven project with Jenkinsfile");
         }
+       
 }
